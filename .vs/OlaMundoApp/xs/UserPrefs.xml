@@ -1,8 +1,11 @@
 ﻿<Properties StartupConfiguration="{F0B3D997-AA3A-43B4-B37A-A642AF7D82D2}|Default">
-  <MonoDevelop.Ide.ItemProperties.OlaMundoApp FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OlaMundoApp/MainPage.xaml">
+    <Files>
+      <File FileName="OlaMundoApp/MainPage.xaml" Line="7" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.OlaMundoApp.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.OlaMundoApp.Android FirstBuild="True" PreferredExecutionTarget="Android.0045978518" />
+  <MonoDevelop.Ide.ItemProperties.OlaMundoApp.Android PreferredExecutionTarget="Android.0045978518" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
